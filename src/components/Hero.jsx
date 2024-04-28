@@ -9,7 +9,9 @@ const Hero = () => {
 
         <button
           type="button"
-          onClick={() => window.open('https://google.com', '_blank')}
+          onClick={() =>
+            window.open('https://github.com/AttosSouza/Summarizer', '_blank')
+          }
           className="black_btn"
         >
           GitHub
